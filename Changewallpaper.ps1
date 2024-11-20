@@ -1,5 +1,5 @@
 # Chemin complet de l'image à définir comme fond d'écran
-$imagePath = "$HOME'/Image.jpg"
+$imagePath = "$HOME'/Image.jpg'"
 #$imagePath = "C:\Users\cordo\Pictures\Foxbiere.jpg"
 
 # Modifier la clé de registre pour définir le fond d'écran
