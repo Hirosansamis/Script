@@ -1,5 +1,5 @@
 # Chemin complet de l'image à définir comme fond d'écran
-$imagePath = "$HOME'\Wallpaper.jpg'"
+$imagePath="$HOME\Wallpaper.jpg"
 
 # Modifier la clé de registre pour définir le fond d'écran
 Set-ItemProperty -Path "HKCU:\Control Panel\Desktop" -Name "Wallpaper" -Value $imagePath
